@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+  <Node>book1<Node>Science Fiction</Node><Node>The Hitchhiker's Guide to the Galaxy</Node><Node>Douglas Adams</Node><Node>1979</Node><Node>13</Node></Node>
+  <Node>book2<Node>Fantasy</Node><Node>The Lord of the Rings</Node><Node>J. R. R. Tolkien</Node><Node>1954</Node><Node>24.99</Node></Node>
+  <Node>book3<Node>Fantasy</Node><Node>The Lord of the Rings</Node><Node>J. R. R. Tolkien</Node><Node>1954</Node><Node>24.99</Node></Node>
+  <Node>book4<Node>Mystery</Node><Node>And Then There Were None</Node><Node>Agatha Christie</Node><Node>1939</Node><Node>9.99</Node></Node>
+  <Node>magazine<Node>News</Node><Node>Time Magazine</Node><Node>March 20, 2024</Node><Node>4.99</Node></Node>
+</Catalog>

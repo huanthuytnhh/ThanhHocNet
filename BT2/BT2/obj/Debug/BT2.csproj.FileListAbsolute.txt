@@ -1,0 +1,10 @@
+D:\HSG\ThanhHocNet\BT2\BT2\bin\Debug\BT2.exe.config
+D:\HSG\ThanhHocNet\BT2\BT2\bin\Debug\BT2.exe
+D:\HSG\ThanhHocNet\BT2\BT2\bin\Debug\BT2.pdb
+D:\HSG\ThanhHocNet\BT2\BT2\obj\Debug\BT2.csproj.AssemblyReference.cache
+D:\HSG\ThanhHocNet\BT2\BT2\obj\Debug\BT2.Properties.Resources.resources
+D:\HSG\ThanhHocNet\BT2\BT2\obj\Debug\BT2.csproj.GenerateResource.cache
+D:\HSG\ThanhHocNet\BT2\BT2\obj\Debug\BT2.csproj.CoreCompileInputs.cache
+D:\HSG\ThanhHocNet\BT2\BT2\obj\Debug\BT2.exe
+D:\HSG\ThanhHocNet\BT2\BT2\obj\Debug\BT2.pdb
+D:\HSG\ThanhHocNet\BT2\BT2\obj\Debug\BT2.Form1.resources
