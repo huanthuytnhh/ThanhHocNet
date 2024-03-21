@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+  <book1>
+    <id>1</id>
+    <Genre>Science Fiction</Genre>
+    <Title>The Hitchhiker's Guide to the Galaxy</Title>
+    <Author>Douglas Adams</Author>
+    <Year>1979</Year>
+    <Price>13</Price>
+    <id1>3</id1>
+  </book1>
+  <book2>
+    <id>2</id>
+    <Genre>Fantasy</Genre>
+    <Title>The Lord of the Rings</Title>
+    <Author>J. R. R. Tolkien</Author>
+    <Year>1954</Year>
+    <Price>24.99</Price>
+  </book2>
+</Catalog>
